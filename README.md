@@ -18,10 +18,10 @@ This is a simple project built with Python that demonstrates how to fetch weathe
 ## Installation
 
 1. Clone this repository to your local machine:
->>git clone https://github.com/SAYOUNCDR/OpenWeatherAPI-Python.git
+>git clone https://github.com/SAYOUNCDR/OpenWeatherAPI-Python.git
 
 2. Install the required dependencies
->>pip install requests
+>pip install requests
 
 
 ## Usage
