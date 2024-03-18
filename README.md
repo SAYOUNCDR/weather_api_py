@@ -47,7 +47,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 For any questions or feedback, feel free to contact the project maintainer:
 
-Sayoun Parui
-Email: pheonixgamer12345@gmail.com
+- Name :Sayoun Parui
+- Email: pheonixgamer12345@gmail.com
 
 
